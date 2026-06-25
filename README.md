@@ -12,7 +12,7 @@ OPTIONAL Batterys:https://www.amazon.com/Amazon-Basics-Batteries-Leak-Free-House
 
 Next,
   Video for assembly:THERE IS NO VIDEO YET. COME BACK LATER FOR UPDATES
-Get 4 male to female wires. 
+Get 4 male to female wires. SEE "PIC 1" on main branch
 
 Arduino                              PCA9685
 GND <-------------------------------> GND
@@ -22,7 +22,8 @@ A5 <-------------------------------->SCL
 
 In the demo I am using 4 MG90 servos but any will work.
 As you can see, there are 3 colored wires on the servo. Brown, Red, and Orange. Match the Orange wire to the yellow pin on the pca board. Then match the Red wire to the red pin. Finally match the Brown wire to the black pin.
-When you are done with that cut 2 wires off of the wire spool. Strip both ends and unscrew the caps on the bottom off the power supply. There will be 1 hole on each side. Plug both wires into the pca board and the power supply and 
+When you are done with that cut 2 wires off of the wire spool. Strip both ends and unscrew the caps on the bottom off the power supply. See "pic 2" and "Pic 3"  .
+There will be 1 hole on each side. Plug both wires into the pca board and the power supply and 
 screw them in tight.
 
 
