@@ -1,3 +1,5 @@
+Before you read go into the README.md file
+
 First you need these supplies,
 MG90 servos:https://www.amazon.com/DIANN-Walking-Helicopter-Airplane-Control/dp/B0DH22MFY4/ref=sr_1_6?sr=8-6
 PCA9685 servo driver:https://www.amazon.com/HUAREW-PCA9685-Interface-Compatible-Raspberry/dp/B0CRV3MK14/ref=sr_1_11?sr=8-11
