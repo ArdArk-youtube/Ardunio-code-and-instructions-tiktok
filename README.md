@@ -1,4 +1,4 @@
-BEFORE YOU READ GO TO THE README.md file ITS EASIER TO READ. PRESS CODE ONLY FOR THE PARTS AND WIRING
+BEFORE YOU READ GO TO THE README.md file ITS EASIER TO READ.
 
 First you need these supplies,
 MG90 servos:https://www.amazon.com/DIANN-Walking-Helicopter-Airplane-Control/dp/B0DH22MFY4/ref=sr_1_6?sr=8-6
